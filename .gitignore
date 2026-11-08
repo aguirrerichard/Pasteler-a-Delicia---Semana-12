@@ -1,0 +1,16 @@
+# Dependencias y compilados
+node_modules
+dist
+dist-ssr
+*.local
+
+# Registros
+logs
+*.log
+npm-debug.log*
+
+# Editor / sistema
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
